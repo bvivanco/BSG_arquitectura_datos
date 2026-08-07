@@ -9,7 +9,7 @@ Además, esta demo muestra **dos formas válidas de catalogar la zona curated**,
 - **Escenario A** — Segundo Crawler (más visual, ideal para enseñar qué hace un crawler).
 - **Escenario B** — `enableUpdateCatalog` dentro del propio Job (lo que se usaría en producción real).
 
-## Prerrequisitos (hacer 1-2 días antes, no en vivo)
+## Prerrequisitos
 1. Cuenta AWS con permisos de administrador o rol con acceso a S3, Glue, Athena, IAM, CloudWatch.
 2. Región recomendada: `us-east-1` (mayor disponibilidad de features de Glue).
 3. Bucket S3 exclusivo para la demo: `s3://bsg-demo-glue/` con esta estructura:
