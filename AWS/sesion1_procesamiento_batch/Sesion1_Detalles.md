@@ -39,7 +39,7 @@ Vas a construir un pipeline ETL batch completo sobre AWS, desde un CSV crudo has
 
 ```
 sesion1_procesamiento_batch/
-├── README.md                              este archivo
+├── Sesion1_Detalles.md                              este archivo
 ├── lab00_preparacion_entorno.md
 ├── lab01_crawler_y_data_catalog.md
 ├── lab02_glue_job_y_crawler_curated.md
