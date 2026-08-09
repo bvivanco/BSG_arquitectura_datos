@@ -5,6 +5,9 @@
 .Spotlight-V100
 .Trashes
 
+# Archivos temporales de Office
+~$*
+
 # Windows
 Thumbs.db
 ehthumbs.db
