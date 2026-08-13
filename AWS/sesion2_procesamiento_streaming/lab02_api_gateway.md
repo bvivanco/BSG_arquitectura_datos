@@ -167,10 +167,18 @@ Las llaves indican que es un parámetro variable. Lo que el cliente ponga ahí l
 **Deploy API** → etapa `dev`.
 
 ```bash
-curl -s https://TU-API.execute-api.us-east-1.amazonaws.com/dev/pacientes/P001?limite=5 | python3 -m json.tool
+curl -s "https://TU-API.execute-api.us-east-1.amazonaws.com/dev/pacientes/P001?limite=5" | python3 -m json.tool
 ```
 
 Deberías ver las 5 lecturas más recientes de ese paciente, de la más nueva a la más vieja.
+
+> **Las comillas de la URL no son opcionales.** En zsh —el shell por defecto de macOS— el `?` es un comodín de nombres de archivo. Sin comillas, el shell intenta expandirlo, no encuentra ningún archivo que coincida y aborta el comando antes de llamar a `curl`:
+>
+> ```
+> zsh: no matches found: https://...?limite=5
+> ```
+>
+> No es un error de tu API. Pasa solo con URLs que llevan `?` o `&`, por eso el POST del paso anterior funcionaba sin comillas. Como norma, entrecomilla siempre las URLs en la terminal.
 
 ---
 
@@ -217,6 +225,7 @@ Y aquí está el punto que conviene fijar: **solo puedes usar `query` porque `Pa
 | `500` al enviar JSON válido | Falta `parse_float=Decimal` | Ver Lab 01, paso 2 |
 | El GET devuelve `{}` o `404` | Ese paciente no tiene lecturas | Envía primero un POST con ese `PacienteId` |
 | Cambié la Lambda y la API responde igual | Falta **Deploy** en Lambda, o en API Gateway | Hay que desplegar en los dos sitios |
+| `zsh: no matches found: https://...` | El `?` de la URL sin comillas | Entrecomilla la URL completa |
 | `Internal server error` sin más detalle | El error real está en los logs | CloudWatch → `/aws/lambda/RegistrarPulso` |
 
 ---
