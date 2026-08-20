@@ -1,0 +1,413 @@
+venta_id,fecha_venta,sucursal,categoria,cantidad,monto_total
+V00353,2025-04-22,Cusco,Hogar,2,-175.70
+V00078,2025-04-29,Cusco,Alimentos,2,191.96
+V00337,2025-04-25,Trujillo,Electronica,1,93.71
+V00142,2025-04-20,Lima Centro,Ropa,2,444.89
+V00286,2025-04-06,Lima Centro,Alimentos,4,752.09
+V00074,2025-03-12,Cusco,Hogar,3,128.37
+V00254,2025-03-25,Lima Centro,Alimentos,2,148.53
+V00239,2025-04-12,Arequipa,Electronica,2,97.70
+V00249,2025-04-03,Trujillo,Ropa,4,1046.64
+V00264,2025-04-07,Arequipa,Electronica,4,87.93
+V00208,2025-03-10,Cusco,Hogar,3,66.78
+V00203,2025-03-23,Arequipa,Electronica,3,597.43
+V00109,2025-03-26,Trujillo,Hogar,2,692.05
+V00318,28/04/2025,Trujillo,Hogar,1,136.04
+V00141,2025-03-25,Trujillo,Alimentos,2,591.64
+V00291,2025-03-03,Lima Centro,Hogar,1,196.68
+V00015,2025-03-09,Cusco,Electronica,2,632.08
+V00160,2025-03-07,Arequipa,,2,163.56
+V00007,2025-04-16,Cusco,Alimentos,2,435.66
+V00096,2025-04-22,Arequipa,Alimentos,1,325.70
+V00326,2025-03-14,Trujillo,Ropa,2,515.62
+V00210,2025-03-17,Cusco,Electronica,2,159.87
+V00258,2025-03-07,Cusco,Alimentos,2,362.61
+V00392,2025-04-22,Trujillo,Alimentos,1,16.80
+V00012,2025-03-26,Trujillo,Alimentos,2,78.47
+V00172,2025-04-18,Cusco,Ropa,2,263.81
+V00017,2025-04-08,Arequipa,Electronica,1,12.08
+V00121,2025-03-06,Arequipa,Hogar,4,739.52
+V00344,2025-04-18,Trujillo,Electronica,4,466.11
+V00238,2025-04-22,Cusco,Alimentos,3,90.30
+V00227,2025-04-07,Trujillo,Hogar,1,15.39
+V00252,2025-03-27,Trujillo,Hogar,3,651.84
+V00053,2025-03-26,Arequipa,Electronica,2,39.21
+V00220,2025-03-18,Arequipa,Hogar,2,567.60
+V00100,2025-03-12,Lima Centro,Ropa,1,152.89
+V00107,2025-04-22,Cusco,Electronica,2,300.48
+V00034,2025-04-18,Cusco,Electronica,2,244.11
+V00124,2025-03-10,Trujillo,Hogar,3,1013.83
+V00166,2025-03-11,Lima Centro,Ropa,3,389.08
+V00115,2025-04-10,Cusco,Ropa,3,446.15
+V00394,2025-03-13,Arequipa,Electronica,1,152.17
+V00004,2025-04-06,Lima Centro,Hogar,3,863.55
+V00379,2025-04-24,Cusco,Hogar,1,236.97
+V00037,2025-04-12,Arequipa,Hogar,1,315.19
+V00154,2025-03-14,Cusco,Hogar,2,313.37
+V00386,2025-04-03,Cusco,Hogar,1,117.81
+V00165,2025-04-03,Arequipa,Ropa,4,-168.06
+V00234,2025-04-14,Trujillo,Alimentos,1,130.54
+V00024,2025-03-29,Lima Centro,Hogar,2,78.44
+V00370,2025-03-10,Arequipa,Electronica,3,405.19
+V00303,2025-03-14,Arequipa,Alimentos,2,361.68
+V00330,2025-03-24,Trujillo,Hogar,1,307.01
+V00041,2025-04-28,Cusco,Ropa,1,40.41
+V00324,2025-03-05,Cusco,Ropa,3,865.75
+V00052,2025-03-31,Arequipa,Hogar,3,701.20
+V00069,2025-03-28,Cusco,Hogar,0,273.34
+V00279,2025-04-17,Arequipa,Alimentos,1,234.24
+V00316,2025-03-09,Arequipa,Hogar,0,94.36
+V00312,2025-03-26,Trujillo,Hogar,1,88.81
+V00131,27/03/2025,Arequipa,Hogar,3,171.60
+V00298,2025-04-17,Trujillo,Hogar,4,810.06
+V00073,2025-04-05,Lima Centro,Ropa,2,636.63
+V00395,2025-04-25,Trujillo,Electronica,4,228.35
+V00349,2025-03-14,Trujillo,Hogar,1,48.44
+V00295,2025-04-08,Lima Centro,Alimentos,2,585.87
+V00267,2025-03-10,Arequipa,Ropa,2,-129.45
+V00289,2025-03-18,Cusco,Electronica,2,663.74
+V00216,2025-04-21,Arequipa,Ropa,4,1254.21
+V00290,2025-04-02,Arequipa,Electronica,4,992.04
+V00221,2025-04-02,Trujillo,Electronica,4,1258.09
+V00025,2025-03-31,Cusco,Hogar,4,162.62
+V00388,2025-03-09,Trujillo,Electronica,1,193.45
+V00342,2025-03-11,Cusco,Electronica,1,64.79
+V00133,2025-03-01,Cusco,Electronica,4,1157.83
+V00116,2025-04-03,Lima Centro,Ropa,2,266.82
+V00157,2025-04-02,Arequipa,Ropa,2,227.82
+V00230,2025-03-23,Cusco,Alimentos,3,108.34
+V00183,2025-03-03,Arequipa,Ropa,4,609.88
+V00195,2025-04-29,Cusco,Electronica,2,547.24
+V00325,2025-03-26,Lima Centro,Ropa,3,560.24
+V00270,2025-03-20,Arequipa,Alimentos,3,291.50
+V00189,2025-04-10,Lima Centro,Ropa,1,236.30
+V00103,2025-04-02,Arequipa,Ropa,4,1141.01
+V00145,2025-04-26,Lima Centro,,1,95.34
+V00198,2025-03-10,Cusco,Electronica,2,668.83
+V00351,2025-03-17,Trujillo,Electronica,2,503.46
+V00317,2025-03-30,Lima Centro,Hogar,1,251.11
+V00376,2025-04-28,Arequipa,Hogar,2,187.48
+V00360,2025-04-03,Arequipa,Hogar,2,671.09
+V00026,2025-04-26,Cusco,Ropa,2,557.46
+V00197,2025-03-20,Arequipa,Ropa,2,435.65
+V00147,2025-03-17,Cusco,Electronica,2,197.53
+V00064,2025-03-24,Cusco,Ropa,3,867.70
+V00259,2025-04-01,Lima Centro,Alimentos,2,542.71
+V00328,2025-03-18,Arequipa,Alimentos,2,66.91
+V00391,2025-03-26,Lima Centro,Alimentos,1,308.78
+V00364,2025-04-27,Arequipa,Electronica,1,217.45
+V00129,2025-04-16,Lima Centro,Electronica,4,93.69
+V00200,2025-04-23,Cusco,Ropa,3,880.28
+V00081,2025-03-25,Arequipa,Hogar,1,-112.12
+V00248,2025-03-11,Lima Centro,Electronica,3,919.47
+V00085,2025-04-01,Lima Centro,Ropa,2,541.72
+V00375,2025-04-21,Trujillo,Alimentos,2,36.01
+V00367,2025-04-02,Trujillo,Hogar,3,589.83
+V00204,20/03/2025,Cusco,Electronica,4,582.71
+V00273,2025-03-22,Arequipa,Alimentos,4,136.48
+V00313,2025-04-11,Lima Centro,Electronica,1,191.40
+V00338,2025-04-16,Arequipa,Ropa,1,75.60
+V00080,2025-04-10,Arequipa,Hogar,3,681.20
+V00119,2025-03-30,Lima Centro,Ropa,2,540.17
+V00010,2025-03-04,Trujillo,Hogar,4,829.38
+V00054,2025-04-12,Cusco,Alimentos,2,511.18
+V00398,2025-03-10,Arequipa,,2,249.23
+V00314,2025-04-17,Lima Centro,Electronica,2,483.34
+V00194,2025-04-24,Arequipa,,1,305.91
+V00226,2025-04-23,Arequipa,Electronica,3,777.08
+V00158,2025-04-16,Lima Centro,Hogar,3,565.49
+V00149,2025-04-15,Cusco,Electronica,3,610.02
+V00334,2025-03-17,Cusco,Hogar,1,323.37
+V00190,2025-03-24,Cusco,Ropa,2,403.98
+V00308,2025-04-04,Lima Centro,Hogar,3,502.92
+V00282,2025-04-24,Trujillo,Alimentos,4,1241.49
+V00071,2025-04-01,Trujillo,Electronica,3,165.09
+V00337,2025-04-25,Trujillo,Electronica,1,93.71
+V00250,2025-04-22,Arequipa,Electronica,4,1205.67
+V00336,2025-04-04,Trujillo,,1,223.74
+V00095,2025-03-02,Cusco,Ropa,1,172.61
+V00222,2025-04-18,Cusco,Ropa,2,316.07
+V00117,2025-04-12,Trujillo,Hogar,1,143.76
+V00063,2025-03-18,Trujillo,Alimentos,1,321.80
+V00027,2025-04-17,Arequipa,,4,262.77
+V00321,2025-03-13,Trujillo,Alimentos,0,295.30
+V00001,2025-03-21,Arequipa,Ropa,2,464.03
+V00365,2025-04-22,Trujillo,Ropa,4,205.06
+V00135,2025-03-01,Arequipa,Ropa,1,151.65
+V00143,2025-04-09,Lima Centro,,2,684.73
+V00042,2025-04-24,Lima Centro,Hogar,2,124.97
+V00329,2025-04-14,Lima Centro,Electronica,3,951.28
+V00130,2025-03-09,Arequipa,Alimentos,1,-20.33
+V00082,2025-03-31,Cusco,Ropa,3,286.52
+V00128,2025-03-29,Trujillo,Ropa,1,220.00
+V00304,2025-03-11,Arequipa,Ropa,2,454.45
+V00268,2025-03-29,Arequipa,Alimentos,1,30.48
+V00377,2025-03-09,Trujillo,Alimentos,2,441.67
+V00393,2025-04-21,Lima Centro,Ropa,3,886.04
+V00241,2025-03-03,Lima Centro,Hogar,4,890.93
+V00093,2025-03-05,Lima Centro,Electronica,2,155.78
+V00039,2025-04-15,Trujillo,Alimentos,3,445.46
+V00311,2025-04-14,Cusco,Electronica,1,235.24
+V00228,2025-03-22,Trujillo,,4,1216.81
+V00100,2025-03-12,Lima Centro,Ropa,1,152.89
+V00224,2025-04-02,Cusco,Ropa,2,25.30
+V00097,2025-04-08,Cusco,Ropa,2,606.20
+V00011,2025-03-02,Arequipa,Alimentos,2,137.60
+V00056,2025-03-06,Lima Centro,Electronica,1,56.99
+V00031,2025-04-22,Arequipa,Ropa,3,189.96
+V00219,2025-03-12,Lima Centro,Alimentos,3,937.77
+V00138,2025-03-08,Cusco,Hogar,4,1298.84
+V00277,2025-03-15,Trujillo,Alimentos,4,225.04
+V00114,2025-03-20,Arequipa,Ropa,1,341.73
+V00261,2025-04-14,Arequipa,Hogar,3,936.58
+V00256,2025-03-02,Cusco,Electronica,2,405.90
+V00196,2025-03-30,Trujillo,Hogar,1,-12.80
+V00174,2025-04-01,Lima Centro,Alimentos,3,682.22
+V00075,2025-03-25,Trujillo,Alimentos,4,756.68
+V00009,2025-04-08,Lima Centro,Alimentos,3,844.05
+V00159,2025-03-11,Arequipa,Electronica,1,141.87
+V00177,2025-03-14,Trujillo,Alimentos,3,206.26
+V00235,2025-03-08,Cusco,Electronica,1,149.11
+V00091,2025-04-22,Trujillo,Alimentos,1,28.65
+V00298,2025-04-17,Trujillo,Hogar,4,810.06
+V00327,2025-04-07,Arequipa,Alimentos,2,177.19
+V00140,2025-04-27,Arequipa,Ropa,4,322.15
+V00281,2025-03-13,Cusco,Electronica,4,468.84
+V00301,2025-03-07,Arequipa,Hogar,4,881.91
+V00271,2025-03-27,Trujillo,Hogar,2,615.71
+V00186,2025-03-09,Lima Centro,Electronica,1,146.82
+V00184,2025-03-19,Cusco,Alimentos,2,309.53
+V00106,2025-03-07,Arequipa,Hogar,1,24.66
+V00323,2025-04-04,Lima Centro,Hogar,2,33.33
+V00122,2025-03-02,Arequipa,Electronica,3,778.33
+V00029,2025-04-03,Arequipa,Ropa,0,690.91
+V00005,2025-04-06,Cusco,Electronica,3,244.84
+V00155,2025-03-09,Trujillo,Electronica,2,417.15
+V00284,2025-03-12,Arequipa,Hogar,1,103.56
+V00397,2025-03-26,Cusco,Electronica,2,280.86
+V00272,2025-03-25,Cusco,Ropa,1,340.38
+V00319,2025-03-08,Trujillo,Ropa,2,370.91
+V00110,2025-03-27,Arequipa,Alimentos,1,304.12
+V00297,2025-04-06,Lima Centro,,2,137.63
+V00205,2025-03-30,Trujillo,Electronica,3,853.87
+V00369,2025-04-29,Arequipa,Hogar,2,638.31
+V00300,2025-03-06,Arequipa,Ropa,4,85.41
+V00229,2025-03-16,Lima Centro,Ropa,3,879.27
+V00059,2025-03-15,Arequipa,Alimentos,2,595.58
+V00023,2025-03-13,Trujillo,Alimentos,2,518.16
+V00104,2025-04-23,Arequipa,Alimentos,2,51.28
+V00098,2025-04-18,Cusco,Ropa,1,149.82
+V00320,2025-03-07,Trujillo,,3,367.95
+V00199,2025-03-18,Lima Centro,Hogar,2,213.22
+V00243,2025-03-06,Cusco,Alimentos,3,577.31
+V00161,2025-04-02,Cusco,Hogar,0,38.95
+V00265,2025-04-06,Lima Centro,Ropa,2,430.78
+V00225,2025-03-14,Lima Centro,Hogar,3,219.22
+V00307,2025-04-27,Lima Centro,Ropa,2,223.92
+V00101,2025-04-19,Arequipa,Hogar,2,212.87
+V00013,2025-04-15,Arequipa,Alimentos,2,485.52
+V00182,2025-03-02,Arequipa,Electronica,4,1043.80
+V00294,2025-04-07,Arequipa,Ropa,2,449.48
+V00148,2025-04-24,Cusco,,3,792.09
+V00001,2025-03-21,Arequipa,Ropa,2,464.03
+V00350,2025-03-04,Lima Centro,Ropa,3,417.26
+V00144,2025-04-14,Lima Centro,Electronica,4,111.12
+V00322,2025-03-12,Trujillo,Ropa,3,980.13
+V00151,2025-04-01,Cusco,Hogar,3,300.22
+V00299,2025-03-01,Arequipa,Hogar,1,229.84
+V00310,2025-04-12,Cusco,Ropa,2,608.92
+V00356,2025-03-10,Cusco,Hogar,1,265.94
+V00217,2025-03-05,Lima Centro,Hogar,4,236.96
+V00215,2025-04-18,Arequipa,Electronica,2,242.97
+V00193,05/04/2025,Lima Centro,Electronica,0,229.84
+V00065,2025-03-26,Trujillo,Electronica,1,13.21
+V00244,2025-04-06,Arequipa,Hogar,2,188.54
+V00245,2025-04-11,Trujillo,Alimentos,1,197.42
+V00236,2025-04-17,Lima Centro,Alimentos,1,-130.65
+V00387,2025-04-13,Arequipa,Electronica,2,229.84
+V00030,2025-04-18,Cusco,Hogar,2,391.98
+V00162,2025-04-14,Arequipa,Alimentos,1,237.75
+V00168,2025-04-16,Cusco,Hogar,0,124.55
+V00137,2025-04-17,Lima Centro,Alimentos,1,262.71
+V00242,2025-04-03,Trujillo,Electronica,2,-31.48
+V00374,2025-04-18,Trujillo,Ropa,1,241.90
+V00361,2025-04-16,Trujillo,Electronica,2,-61.11
+V00341,2025-04-25,Trujillo,Electronica,1,324.75
+V00223,2025-04-27,Trujillo,Ropa,1,293.33
+V00201,2025-04-08,Lima Centro,Ropa,2,-59.98
+V00164,20/04/2025,Cusco,Alimentos,4,1011.48
+V00382,2025-03-26,Lima Centro,Electronica,4,445.46
+V00099,2025-04-26,Cusco,Electronica,1,101.53
+V00307,2025-04-27,Lima Centro,Ropa,2,223.92
+V00043,2025-04-21,Arequipa,,2,629.21
+V00152,2025-03-11,Trujillo,Electronica,4,1084.73
+V00175,2025-03-06,Lima Centro,Hogar,1,191.36
+V00206,2025-03-31,Trujillo,Ropa,1,83.89
+V00315,2025-04-10,Lima Centro,Electronica,2,585.22
+V00214,2025-04-20,Cusco,,1,46.16
+V00306,2025-04-12,Arequipa,Electronica,0,756.73
+V00191,2025-04-06,Cusco,Electronica,2,-32.58
+V00014,2025-03-01,Trujillo,Alimentos,3,220.90
+V00232,2025-03-02,Lima Centro,Ropa,1,87.61
+V00280,2025-04-19,Trujillo,Ropa,2,151.30
+V00348,2025-03-23,Cusco,Ropa,2,688.06
+V00178,2025-03-13,Lima Centro,Alimentos,4,336.11
+V00378,2025-03-27,Arequipa,Alimentos,4,869.26
+V00067,2025-04-27,Cusco,Hogar,2,275.62
+V00070,2025-04-28,Trujillo,Ropa,4,156.94
+V00269,2025-03-16,Cusco,Ropa,0,65.88
+V00253,2025-03-23,Cusco,Alimentos,3,599.13
+V00346,2025-03-26,Trujillo,Electronica,1,223.12
+V00179,2025-03-17,Cusco,Alimentos,1,291.54
+V00048,2025-04-04,Arequipa,Alimentos,3,348.09
+V00288,2025-04-20,Arequipa,Hogar,1,274.67
+V00368,2025-04-15,Arequipa,Electronica,2,683.73
+V00026,2025-04-26,Cusco,Ropa,2,557.46
+V00276,2025-03-24,Arequipa,Hogar,1,256.19
+V00033,2025-04-20,Lima Centro,Electronica,3,93.62
+V00400,2025-04-25,Arequipa,Hogar,3,628.08
+V00052,2025-03-31,Arequipa,Hogar,3,701.20
+V00354,2025-03-14,Cusco,Electronica,1,299.76
+V00020,2025-04-03,Trujillo,Electronica,1,333.43
+V00363,2025-03-26,Arequipa,Alimentos,2,389.04
+V00002,2025-03-03,Arequipa,Electronica,2,306.68
+V00035,2025-04-02,Arequipa,Ropa,4,755.38
+V00366,2025-04-13,Cusco,Alimentos,3,713.37
+V00113,2025-04-17,Arequipa,Ropa,1,129.61
+V00339,2025-03-21,Cusco,Hogar,4,84.62
+V00335,2025-03-23,Trujillo,Alimentos,4,1221.95
+V00072,2025-03-26,Cusco,Ropa,2,350.63
+V00177,2025-03-14,Trujillo,Alimentos,3,206.26
+V00078,2025-04-29,Cusco,Alimentos,2,191.96
+V00086,2025-04-09,Arequipa,Alimentos,3,225.94
+V00262,2025-03-27,Lima Centro,Ropa,1,224.97
+V00076,2025-03-09,Lima Centro,Ropa,1,103.61
+V00302,2025-04-05,Lima Centro,Hogar,2,-117.71
+V00046,2025-03-19,Lima Centro,Alimentos,3,717.57
+V00017,2025-04-08,Arequipa,Electronica,1,12.08
+V00209,2025-04-07,Arequipa,Ropa,2,649.63
+V00211,2025-04-01,Arequipa,Electronica,3,684.80
+V00163,2025-04-13,Arequipa,Ropa,4,215.94
+V00006,2025-03-24,Trujillo,Hogar,1,280.50
+V00094,2025-03-17,Lima Centro,Hogar,2,225.05
+V00389,29/04/2025,Lima Centro,Hogar,1,166.27
+V00309,2025-04-21,Cusco,Electronica,4,962.56
+V00176,2025-04-11,Arequipa,Hogar,2,435.14
+V00362,2025-03-18,Trujillo,Electronica,2,489.19
+V00090,2025-03-18,Trujillo,Electronica,2,308.04
+V00111,2025-03-01,Arequipa,Alimentos,1,155.23
+V00343,2025-03-23,Cusco,Ropa,4,1374.84
+V00051,2025-03-24,Lima Centro,Hogar,3,-177.65
+V00173,2025-04-13,Cusco,Ropa,2,25.82
+V00038,2025-03-30,Arequipa,Ropa,4,1335.79
+V00347,2025-04-08,Lima Centro,Hogar,4,249.87
+V00032,2025-03-12,Cusco,Ropa,2,442.51
+V00385,2025-04-22,Trujillo,Electronica,0,244.75
+V00125,2025-03-03,Trujillo,Ropa,1,148.37
+V00120,2025-03-05,Arequipa,Ropa,2,315.08
+V00112,2025-03-09,Trujillo,Electronica,1,198.42
+V00384,2025-04-15,Cusco,Hogar,2,607.39
+V00044,2025-03-05,Arequipa,Hogar,1,165.38
+V00062,2025-03-30,Cusco,Electronica,0,238.04
+V00345,2025-03-09,Arequipa,Hogar,1,200.65
+V00150,2025-03-01,Arequipa,,2,539.23
+V00154,2025-03-14,Cusco,Hogar,2,313.37
+V00266,2025-03-11,Trujillo,Alimentos,0,438.39
+V00390,2025-03-27,Cusco,Hogar,1,104.46
+V00218,2025-03-29,Lima Centro,Hogar,2,580.39
+V00016,2025-03-26,Trujillo,Electronica,2,452.78
+V00136,02/04/2025,Cusco,Hogar,1,-178.98
+V00355,2025-04-25,Trujillo,Ropa,2,487.16
+V00088,2025-03-29,Cusco,Hogar,4,201.05
+V00045,2025-03-03,Arequipa,Ropa,1,339.59
+V00118,07/04/2025,Cusco,Ropa,2,287.11
+V00108,2025-04-05,Arequipa,Alimentos,1,149.96
+V00293,2025-03-16,Arequipa,Ropa,1,186.20
+V00251,2025-03-27,Arequipa,Electronica,1,150.72
+V00028,2025-04-09,Lima Centro,Alimentos,0,1315.46
+V00358,2025-04-06,Cusco,Alimentos,4,-198.25
+V00008,2025-03-27,Trujillo,Electronica,4,152.94
+V00359,2025-03-09,Lima Centro,Alimentos,1,72.50
+V00333,2025-03-26,Trujillo,Alimentos,2,408.46
+V00257,2025-04-03,Arequipa,Alimentos,0,-138.48
+V00274,2025-03-30,Lima Centro,Hogar,2,-136.21
+V00380,2025-04-01,Cusco,Electronica,1,212.36
+V00066,2025-03-25,Lima Centro,Hogar,1,-152.64
+V00105,2025-04-29,Lima Centro,Electronica,2,370.56
+V00285,2025-03-28,Arequipa,Ropa,2,129.58
+V00207,2025-03-26,Lima Centro,Ropa,1,27.07
+V00146,2025-04-22,Cusco,Hogar,2,91.52
+V00102,2025-03-16,Arequipa,Ropa,1,107.10
+V00188,2025-04-09,Cusco,Ropa,4,958.84
+V00132,2025-04-15,Trujillo,Ropa,2,88.76
+V00260,2025-03-11,Trujillo,Hogar,2,271.86
+V00022,2025-04-10,Arequipa,Ropa,3,858.87
+V00352,2025-03-20,Arequipa,Alimentos,1,343.69
+V00292,2025-03-11,Cusco,Hogar,2,302.27
+V00399,2025-04-11,Trujillo,Electronica,2,-158.48
+V00126,2025-03-08,Lima Centro,Electronica,4,1208.41
+V00240,2025-03-09,Lima Centro,Alimentos,2,548.97
+V00167,2025-04-10,Lima Centro,Hogar,3,383.65
+V00061,2025-04-01,Cusco,Hogar,4,182.55
+V00278,2025-04-04,Trujillo,Ropa,2,435.15
+V00275,2025-03-13,Arequipa,Hogar,3,882.70
+V00139,13/04/2025,Trujillo,Hogar,2,457.99
+V00255,2025-04-22,Lima Centro,Hogar,2,679.01
+V00079,2025-03-06,Arequipa,Electronica,1,276.42
+V00060,05/03/2025,Lima Centro,Ropa,2,195.66
+V00123,2025-04-13,Cusco,Ropa,1,293.57
+V00055,2025-04-16,Arequipa,Ropa,0,799.41
+V00396,2025-04-15,Arequipa,Ropa,2,640.45
+V00134,2025-03-16,Lima Centro,Ropa,1,26.87
+V00077,09/03/2025,Cusco,Electronica,2,503.63
+V00156,2025-03-11,Arequipa,Alimentos,2,489.81
+V00246,02/03/2025,Trujillo,Ropa,2,173.79
+V00331,2025-04-02,Cusco,Ropa,2,614.05
+V00003,2025-04-10,Lima Centro,Electronica,3,-52.01
+V00170,2025-04-21,Cusco,Alimentos,2,167.32
+V00047,2025-04-16,Cusco,Ropa,3,517.41
+V00372,2025-03-24,Trujillo,Alimentos,1,150.59
+V00087,2025-04-29,Cusco,Alimentos,1,83.98
+V00185,2025-03-22,Trujillo,Hogar,3,385.64
+V00084,2025-04-15,Arequipa,Alimentos,2,485.42
+V00340,2025-04-20,Cusco,Electronica,1,223.69
+V00373,2025-03-29,Arequipa,Electronica,2,291.39
+V00192,2025-03-05,Cusco,Electronica,4,571.42
+V00040,2025-04-05,Lima Centro,Alimentos,2,499.33
+V00181,2025-04-12,Lima Centro,Hogar,2,277.47
+V00296,2025-04-27,Cusco,Hogar,2,157.25
+V00213,2025-03-12,Trujillo,Electronica,0,660.23
+V00068,2025-04-18,Trujillo,Hogar,1,106.86
+V00357,2025-04-26,Arequipa,Hogar,0,209.82
+V00332,2025-04-02,Cusco,Hogar,1,285.52
+V00212,2025-04-11,Arequipa,Electronica,4,732.79
+V00050,2025-04-25,Trujillo,Hogar,3,281.60
+V00297,2025-04-06,Lima Centro,,2,137.63
+V00263,2025-04-14,Lima Centro,Alimentos,0,278.22
+V00021,2025-04-11,Trujillo,Electronica,4,1191.05
+V00018,2025-04-09,Cusco,Alimentos,1,226.43
+V00019,2025-03-30,Arequipa,Alimentos,2,234.81
+V00237,2025-03-26,Trujillo,Electronica,2,252.86
+V00202,2025-03-19,Cusco,Ropa,3,185.06
+V00305,2025-04-16,Lima Centro,Hogar,1,22.82
+V00083,2025-04-26,Trujillo,Alimentos,1,98.95
+V00058,2025-04-12,Arequipa,Electronica,4,1044.14
+V00283,2025-04-27,Lima Centro,Alimentos,1,234.76
+V00383,2025-04-06,Arequipa,Electronica,1,179.97
+V00049,2025-03-26,Cusco,Hogar,1,-128.84
+V00233,2025-03-02,Arequipa,Electronica,4,1046.79
+V00287,2025-04-23,Lima Centro,Hogar,1,307.79
+V00371,2025-04-22,Cusco,Alimentos,1,228.50
+V00036,2025-04-23,Arequipa,Alimentos,1,152.82
+V00153,2025-03-23,Trujillo,Electronica,2,651.67
+V00057,2025-04-10,Lima Centro,Ropa,2,202.32
+V00092,2025-04-17,Cusco,Alimentos,1,225.50
+V00187,2025-03-01,Cusco,Electronica,1,289.82
+V00381,2025-03-12,Arequipa,Electronica,0,292.79
+V00169,2025-04-10,Arequipa,Hogar,3,304.87
+V00127,2025-03-17,Lima Centro,Alimentos,4,1126.45
+V00247,2025-03-11,Lima Centro,Ropa,2,400.30
+V00231,2025-04-06,Arequipa,Electronica,2,614.02
+V00180,2025-03-16,Cusco,,1,194.37
+V00171,2025-04-11,Trujillo,Ropa,1,131.36
+V00089,2025-03-03,Lima Centro,Hogar,4,1028.71

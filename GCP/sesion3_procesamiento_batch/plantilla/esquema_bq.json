@@ -1,0 +1,10 @@
+{
+  "BigQuery Schema": [
+    { "name": "venta_id",    "type": "STRING",  "mode": "NULLABLE" },
+    { "name": "fecha_venta", "type": "STRING",  "mode": "NULLABLE" },
+    { "name": "sucursal",    "type": "STRING",  "mode": "NULLABLE" },
+    { "name": "categoria",   "type": "STRING",  "mode": "NULLABLE" },
+    { "name": "cantidad",    "type": "INTEGER", "mode": "NULLABLE" },
+    { "name": "monto_total", "type": "FLOAT",   "mode": "NULLABLE" }
+  ]
+}

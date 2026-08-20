@@ -1,0 +1,12 @@
+{
+  "type": "record",
+  "name": "LecturaTransformador",
+  "namespace": "com.bsg.redelectrica",
+  "doc": "Contrato de datos de la telemetria de transformadores. Pub/Sub valida cada mensaje contra este esquema AL PUBLICAR: lo que no cumple se rechaza en la puerta, no dentro del consumidor.",
+  "fields": [
+    { "name": "transformador_id", "type": "string", "doc": "Identificador del transformador, formato TR-NNN" },
+    { "name": "voltaje",          "type": "double", "doc": "Tension en voltios" },
+    { "name": "corriente",        "type": "double", "doc": "Corriente en amperios" },
+    { "name": "timestamp",        "type": "string", "doc": "Instante de la lectura en ISO 8601 UTC" }
+  ]
+}
